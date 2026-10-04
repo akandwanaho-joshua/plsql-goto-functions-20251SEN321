@@ -1,0 +1,8 @@
+# Oracle / SQL Developer
+*.log
+*.tmp
+*.bak
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
